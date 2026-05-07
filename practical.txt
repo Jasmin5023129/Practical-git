@@ -1,1 +1,2 @@
 This is my Git practical file 
+Feature branch content 
